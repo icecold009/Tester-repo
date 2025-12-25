@@ -8,3 +8,9 @@ updating the repo for test 3
 - Clarified repository purpose
 - Added structure for future documentation
 
+# Tests conducted
+
+1. Pull request
+2. Code review 1
+3. Code review 2
+
